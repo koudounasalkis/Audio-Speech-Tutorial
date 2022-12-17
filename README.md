@@ -2,7 +2,8 @@
 
 This repo contains a short tutorial for audio and speech processing -- from basics to applications.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/koudounasalkis/Audio-Speech-Tutorial/blob/main/audio_speech_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/koudounasalkis/Audio-Speech-Tutorial/blob/main/audio_speech_tutorial.ipynb)
+
 
 <center width="100%">
   <img src="images/waveform.gif" width="1200px">
