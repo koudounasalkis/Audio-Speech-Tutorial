@@ -1,6 +1,8 @@
 # Audio & Speech Tutorial
 
-This repo contains a short tutorial for audio and speech processing -- from basics to applications.
+This repository contains a short introduction on the topic of audio and speech processing, from the very basics to the numerous applications. 
+
+You can open the notebook directly in colab here: 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/koudounasalkis/Audio-Speech-Tutorial/blob/main/audio_speech_tutorial.ipynb)
 
