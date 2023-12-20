@@ -24,7 +24,9 @@ This notebook briefly shows:
   - Keyword Spotting
   - Speech-to-Text
   - Text-to-Speech
+  - Speech Translation
   - Music Generation
+  - LLMs for Speech: Gemini
   
 
 If you want to get in touch with me, you can send me an email at [alkis.koudounas@polito.it](mailto:alkis.koudounas@polito.it?subject=[Speech%20-%20Audio]%20Request%20further%20information).
